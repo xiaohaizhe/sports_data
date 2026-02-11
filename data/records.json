@@ -1,9 +1,18 @@
 {
   "records": [
     {
+      "id": 1770796534283,
+      "user_id": "yao",
+      "sport_type": "跑步",
+      "duration": 2,
+      "effect": "",
+      "note": "2",
+      "checkin_time": "2026-02-11 15:55:34"
+    },
+    {
       "id": 1770794530594,
       "user_id": "yao",
-      "sport_type": "骑行",
+      "sport_type": "éªè¡",
       "duration": 1,
       "effect": "",
       "note": "1",
@@ -12,12 +21,12 @@
     {
       "id": 1770794506664,
       "user_id": "haizhe",
-      "sport_type": "éªè¡",
+      "sport_type": "Ã©ÂªÂÃ¨Â¡Â",
       "duration": 2,
       "effect": "",
       "note": "2",
       "checkin_time": "2026-02-11 15:21:47"
     }
   ],
-  "updatedAt": "2026-02-11 15:22:11"
+  "updatedAt": "2026-02-11 15:55:34"
 }
