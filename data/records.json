@@ -1,9 +1,18 @@
 {
   "records": [
     {
+      "id": 1770798620852,
+      "user_id": "haizhe",
+      "sport_type": "骑行",
+      "duration": 3,
+      "effect": "",
+      "note": "",
+      "checkin_time": "2026-02-11 16:30:21"
+    },
+    {
       "id": 1770798567149,
       "user_id": "haizhe",
-      "sport_type": "跑步",
+      "sport_type": "è·æ­¥",
       "duration": 3,
       "effect": "",
       "note": "3",
@@ -19,5 +28,5 @@
       "checkin_time": "2026-02-11 16:25:43"
     }
   ],
-  "updatedAt": "2026-02-11 16:29:27"
+  "updatedAt": "2026-02-11 16:30:21"
 }
