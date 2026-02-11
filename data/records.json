@@ -1,6 +1,14 @@
 {
   "records": [
     {
+      "id": 1770803494044,
+      "user_id": "usrid01",
+      "sport_type": "Other",
+      "duration": 90,
+      "effect": 2.5,
+      "checkin_time": "2026-02-11 17:51:34"
+    },
+    {
       "id": 1770803134430,
       "user_id": "haizhe",
       "sport_type": "Running",
@@ -11,7 +19,7 @@
     {
       "id": 1770798620852,
       "user_id": "haizhe",
-      "sport_type": "éªè¡",
+      "sport_type": "Ã©ÂªÂÃ¨Â¡Â",
       "duration": 3,
       "effect": "",
       "note": "",
@@ -20,7 +28,7 @@
     {
       "id": 1770798567149,
       "user_id": "haizhe",
-      "sport_type": "Ã¨Â·ÂÃ¦Â­Â¥",
+      "sport_type": "ÃÂ¨ÃÂ·ÃÂÃÂ¦ÃÂ­ÃÂ¥",
       "duration": 3,
       "effect": "",
       "note": "3",
@@ -36,5 +44,5 @@
       "checkin_time": "2026-02-11 16:25:43"
     }
   ],
-  "updatedAt": "2026-02-11 17:45:35"
+  "updatedAt": "2026-02-11 17:51:34"
 }
