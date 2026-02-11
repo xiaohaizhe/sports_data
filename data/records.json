@@ -1,6 +1,15 @@
 {
   "records": [
     {
+      "id": 1770798567149,
+      "user_id": "haizhe",
+      "sport_type": "跑步",
+      "duration": 3,
+      "effect": "",
+      "note": "3",
+      "checkin_time": "2026-02-11 16:29:27"
+    },
+    {
       "id": 1770798342053,
       "user_id": "yao",
       "sport_type": "Running",
@@ -10,5 +19,5 @@
       "checkin_time": "2026-02-11 16:25:43"
     }
   ],
-  "updatedAt": "2026-02-11 16:25:43"
+  "updatedAt": "2026-02-11 16:29:27"
 }
