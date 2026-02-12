@@ -1,6 +1,14 @@
 {
   "records": [
     {
+      "id": 1770940616679,
+      "user_id": "yaoyuan",
+      "sport_type": "Fitness",
+      "duration": 45,
+      "effect": 0,
+      "checkin_time": "2026-02-13 07:56:57"
+    },
+    {
       "id": 1770803494044,
       "user_id": "usrid01",
       "sport_type": "Other",
@@ -19,7 +27,7 @@
     {
       "id": 1770798620852,
       "user_id": "haizhe",
-      "sport_type": "Ã©ÂªÂÃ¨Â¡Â",
+      "sport_type": "ÃÂ©ÃÂªÃÂÃÂ¨ÃÂ¡ÃÂ",
       "duration": 3,
       "effect": "",
       "note": "",
@@ -28,7 +36,7 @@
     {
       "id": 1770798567149,
       "user_id": "haizhe",
-      "sport_type": "ÃÂ¨ÃÂ·ÃÂÃÂ¦ÃÂ­ÃÂ¥",
+      "sport_type": "ÃÂÃÂ¨ÃÂÃÂ·ÃÂÃÂÃÂÃÂ¦ÃÂÃÂ­ÃÂÃÂ¥",
       "duration": 3,
       "effect": "",
       "note": "3",
@@ -44,5 +52,5 @@
       "checkin_time": "2026-02-11 16:25:43"
     }
   ],
-  "updatedAt": "2026-02-11 17:51:34"
+  "updatedAt": "2026-02-13 07:56:57"
 }
