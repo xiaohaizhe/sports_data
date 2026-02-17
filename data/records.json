@@ -1,6 +1,14 @@
 {
   "records": [
     {
+      "id": 1771335915634,
+      "user_id": "yaoyuan",
+      "sport_type": "Running",
+      "duration": 45,
+      "effect": 3.3,
+      "checkin_time": "2026-02-17 21:45:17"
+    },
+    {
       "id": 1771215755410,
       "user_id": "yaoyuan",
       "sport_type": "Running",
@@ -58,5 +66,5 @@
       "checkin_time": "2026-02-11 16:25:43"
     }
   ],
-  "updatedAt": "2026-02-16 12:22:36"
+  "updatedAt": "2026-02-17 21:45:17"
 }
