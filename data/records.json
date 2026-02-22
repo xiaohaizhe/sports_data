@@ -1,6 +1,14 @@
 {
   "records": [
     {
+      "id": 1771746182122,
+      "user_id": "yaoyuan",
+      "sport_type": "Ball Sports",
+      "duration": 90,
+      "effect": 0,
+      "checkin_time": "2026-02-22 15:43:02"
+    },
+    {
       "id": 1771647020420,
       "user_id": "yaoyuan",
       "sport_type": "Running",
@@ -90,5 +98,5 @@
       "checkin_time": "2026-02-11 16:25:43"
     }
   ],
-  "updatedAt": "2026-02-21 12:10:21"
+  "updatedAt": "2026-02-22 15:43:02"
 }
